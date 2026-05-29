@@ -1,4 +1,4 @@
-[README-5.md](https://github.com/user-attachments/files/28371992/README-5.md)
+
 # Northwind Sales Analysis
 
 ## Sobre o Projeto
